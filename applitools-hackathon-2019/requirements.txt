@@ -1,0 +1,4 @@
+selenium<4,>=3.14.1
+webdriver-manager>=3.5.1
+eyes-selenium>=4.25.2
+pytest>=6.2.5
